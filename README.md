@@ -1,0 +1,1 @@
+Simple Solidity Erc20 token contract deployed on binance testnet with testnet written in python(web3)
